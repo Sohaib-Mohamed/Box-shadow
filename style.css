@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: rgb(219, 218, 218);
+}
+div{
+    align-items: center;
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    border-radius: 50%;
+    background: #8575ff;
+    box-shadow:  -5px 5px 68px #352f66,
+                 5px -5px 68px #d5bbff;
+}
